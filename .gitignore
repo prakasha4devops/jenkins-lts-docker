@@ -1,0 +1,5 @@
+**/*.rpm
+**/*.jar
+.idea/
+.DS_Store
+/jenkins_home/

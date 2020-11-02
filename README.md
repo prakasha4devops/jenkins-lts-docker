@@ -1,8 +1,9 @@
 # jenkins-lts-docker
 
-git clone <<repo>>
+git clone git@github.com:prakasha4devops/jenkins-lts-docker.git
   
-chmod *.sh
+chmod +x *.sh
+
 ./run_docker.sh
 
 http://localhost:8081  
